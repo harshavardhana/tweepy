@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ~~~
 
-Forked as new tweepy with latest API changes - Sub Licensed into Apache2.0
+Forked as new tweepy with Twitter's latest API changes - Sub Licensed into Apache2.0
 
 Maintainer: Harshavardhana <harsha@harshavardhana.net>
 

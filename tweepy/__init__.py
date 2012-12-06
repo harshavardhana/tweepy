@@ -5,8 +5,9 @@
 """
 Tweepy Twitter API library
 """
-__version__ = '1.7.1'
+__version__ = '2.0.0'
 __author__ = 'Joshua Roesslein'
+__maintainer__ = 'Harshavardhana'
 __license__ = 'MIT'
 
 from models import Status, User, DirectMessage, Friendship, SavedSearch, SearchResult, ModelFactory
