@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 Forked as new tweepy with Twitter's latest API changes - Sub Licensed into Apache2.0
 
-Maintainer: Harshavardhana <harsha@harshavardhana.net>
+Copyright (C) 2012 Harshavardhana - Maintainer
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
